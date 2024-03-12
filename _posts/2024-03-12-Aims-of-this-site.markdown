@@ -4,26 +4,31 @@ title:  "Aims of this site"
 date:   2024-03-12 10:26:02 +0000
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+I found myself incredibly inspired by the personal sites of [Gwern], 
+[Andy Matuschak](https://andymatuschak.org/) and [Michael Nielsen](https://michaelnielsen.org/).
 
-Jekyll requires blog post files to be named according to the following format:
+I frequently do deep dives into things but, don't end up taking good [evergreen notes] that I return to and build upon.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+This will not be an icredibly polished site. It is for my own use and is made available to the public only so that I am forced to write in such a way that my notes are readable, concise and will be understandable to my future self.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+My plan is first to begin by relaying my current ideas around key areas of interest to me, I hope that these will form the backbone of my notes:
+- Cognitive Psychology
+  - Learning
+    - What to learn?
+    - How to learn?
+    - When to learn?
+  - Memory
+    - What is it to remember on different levels?
+  - Techniques for improving learning and memory
+    - Distributed practice
+    - Retrieval practice
+    - Pretesting
+  - Computational modelling
+    - Models of memory
+- Philosophy
+  - Philosophy of science
+    - Models
+    - Theory development
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[evergreen notes]: https://notes.andymatuschak.org/Evergreen_notes
+[Gwern]: https://gwern.net/about
