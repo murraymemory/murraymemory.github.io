@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Murray Memory
-email: your-email@example.com
+email: ewan.murray@york.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   A landing page to find out more about me, Ewan Murray, and my research. 
   
