@@ -7,4 +7,5 @@ My academic career so far has been spent at the University of York. I gained a d
 
 I'm currently a PhD Student at the [Univeristy of York](https://www.york.ac.uk/psychology/staff/postgrads/murray,-ewan/) and a member of the [numerical cognition](https://www.york.ac.uk/psychology/research/development-and-cultural-processes/numerical-cognition-lab/) and [episodic memory](http://www.aidanhorner.org/) labs. My main interests are optimising learning and memory, developing expertise, metascience and philosophy of science.
 
-![Picture of me](_assets/EwanMurray.jpg)
+![Picture of me](/_assets/EwanMurray.jpg)
+<img src="/_assets/EwanMurray.jpg" alt="Picture of me">
