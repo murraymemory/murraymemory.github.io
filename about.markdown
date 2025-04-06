@@ -9,3 +9,4 @@ I'm currently a PhD Student at the [Univeristy of York](https://www.york.ac.uk/p
 
 ![Picture of me](/assets/EwanMurray.jpg)
 <img src="assets/EwanMurray.jpg" alt="Picture of me">
+![Image]({{ site.baseurl }}/assets/EwanMurray.jpg)
